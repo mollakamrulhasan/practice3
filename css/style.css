@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.clr {
+    clear: both;
+}
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.img-fix {
+    max-width: 100%;
+}
+.row {
+    overflow: hidden;
+}
+.col-4 {
+    width: 33.33%;
+    float: left;
+    padding:10px 15px;
+}
+
+.full_wrapper{
+    width: 100%;
+}
+.main_wrapper{
+    width: 80%;
+    margin: 0 auto;
+}
+.header_area{
+    padding: 15px 0 30px;
+    background: #06112F;
+}
+.menu {
+    float:right;
+    display: inline-block;
+    margin-top:0;
+    padding-left:520px;
+}
+.menu ul{
+    list-style: none;
+}
+.menu ul li{
+   
+   display:inline-block;
+    width: 100px;
+}
+.menu ul li a{
+    text-decoration: none;
+    text-align: right;
+    color: white;
+}
+#banner{
+    padding: 100px 0 200px;
+    
+    background-image: url(../img/bannar.jpg);
+}
+.banner_text{
+    text-align: center;    
+    padding: 50px;
+    color: white;
+}
+.banner_text .h{
+    margin-left: 415px;
+    width: 150px;
+    color: white;
+}
+.main_head h3{
+    padding-top: 10px;
+padding-left: 500px;
+}
+
+hr {      
+    border-top-style: none;
+    border-top-width: 0px;
+    border-top: 1px solid orange;
+    width:120px;
+    margin-left: 490px;
+
+}
+.body_about p{
+    text-align: center;
+    padding-top: 50px;
+}
+.about_footer{
+    padding-top: 20px;
+     padding-bottom:100px;
+}
+.w3-button{
+   margin-left: 480px;
+
+  }
+.w3-btn {
+    width:150px;
+
+}
+.about{
+    padding-bottom: 200px;
+}
+#testmonial{
+    padding: 20px 0 80px;
+    background-image: url(../img/text.jpg);
+    color: white;
+
+
+}
+.body_body p{
+    float: left;
+    display: inline;
+    width: 80%;
+}
+
+.body_body  img{
+    display: inline;
+    float: left;
+    height: 50px;
+    width: 80px;
+}
+#Portfolio .port .col-4{
+    display: inline;
+    float: left;
+}
+#contact{
+    background-color:#252525;
+
+}
+.con_form{
+    padding-left: 250px;
+    height:300px;
+
+    width: 80%;
+}
+
+    .con_form p{
+        float: left;
+        padding-left: 50px;
+        width: 250px;
+        display: inline-block;
+         text-align: center;
+
+
+    }
+.con_form textarea{
+    margin-left: 50px;
+    margin-top: 10px;
+    padding-top:50px;
+    padding-left:125px;
+
+}
+
+.contact_footer .w3-button {
+
+     margin-left: 322px;
+    margin-top: 25px;
+
+}
+
+  
+
+    
